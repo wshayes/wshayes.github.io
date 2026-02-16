@@ -1,5 +1,9 @@
 # Hugo site management and migration commands
 
+# List available commands
+default:
+    @just --list
+
 # Run Blogger migration
 migrate-blogger *ARGS:
     uv run python scripts/migrate_blogger.py {{ARGS}}
