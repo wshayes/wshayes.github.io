@@ -1,4 +1,4 @@
-colorScheme = "blowfish"
+colorScheme = "ocean"
 defaultAppearance = "light"
 autoSwitchAppearance = true
 
@@ -25,6 +25,11 @@ enableCodeCopy = true
   showTaxonomies = true
   showWordCount = false
   sharingLinks = ["linkedin", "twitter", "reddit", "email"]
+  showZenMode = true
+  showRelatedContent = true
+  relatedContentLimit = 3
+  showEdit = true
+  editURL = "https://github.com/wshayes/wshayes.github.io/edit/main/content/"
 
 [list]
   showBreadcrumbs = true
