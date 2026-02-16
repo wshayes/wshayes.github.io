@@ -34,4 +34,10 @@ enableCodeCopy = true
 
 [taxonomy]
   showTermCount = true
-  cardView = false
+  showBreadcrumbs = true
+  cardView = true
+
+[term]
+  showBreadcrumbs = true
+  groupByYear = true
+  cardView = true
