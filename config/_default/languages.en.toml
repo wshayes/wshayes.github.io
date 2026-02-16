@@ -1,0 +1,14 @@
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "William Hayes, PhD"
+
+[params.author]
+  name = "William Hayes, PhD"
+  image = "img/williamicon.png"
+  bio = "Personal website and blog"
+  headline = "Exploring technology, science, and beyond"
+  links = [
+    { github = "https://github.com/wshayes" },
+    { linkedin = "https://linkedin.com/in/williamshayes" },
+  ]

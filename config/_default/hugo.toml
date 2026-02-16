@@ -1,0 +1,17 @@
+baseURL = "https://williamhayes.org/"
+languageCode = "en-us"
+title = "William Hayes, PhD"
+theme = "github.com/nunocoracao/blowfish/v2"
+
+enableRobotsTXT = true
+[pagination]
+  pagerSize = 10
+summaryLength = 30
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+  series = "series"

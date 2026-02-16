@@ -1,0 +1,37 @@
+colorScheme = "blowfish"
+defaultAppearance = "light"
+autoSwitchAppearance = true
+
+enableSearch = true
+enableCodeCopy = true
+
+[homepage]
+  layout = "profile"
+  homepageImage = "img/williamicon.png"
+  showRecent = true
+  showRecentItems = 5
+  showMoreLink = true
+  showMoreLinkDest = "/posts"
+  cardView = true
+  cardViewScreenWidth = false
+
+[article]
+  showDate = true
+  showDateUpdated = false
+  showAuthor = false
+  showBreadcrumbs = true
+  showReadingTime = true
+  showTableOfContents = true
+  showTaxonomies = true
+  showWordCount = false
+  sharingLinks = ["linkedin", "twitter", "reddit", "email"]
+
+[list]
+  showBreadcrumbs = true
+  showTableOfContents = false
+  groupByYear = true
+  cardView = true
+
+[taxonomy]
+  showTermCount = true
+  cardView = false

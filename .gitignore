@@ -1,0 +1,8 @@
+public/
+resources/_gen/
+docs/
+__pycache__/
+.venv/
+.DS_Store
+*.pyc
+node_modules/

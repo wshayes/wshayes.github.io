@@ -1,0 +1,16 @@
+[project]
+name = "wshayes-site-tools"
+version = "0.1.0"
+description = "Migration scripts for wshayes.github.io"
+requires-python = ">=3.11"
+dependencies = [
+    "feedparser>=6.0",
+    "beautifulsoup4>=4.12",
+    "markdownify>=0.14",
+    "playwright>=1.40",
+    "httpx>=0.27",
+    "python-frontmatter>=1.1",
+    "Pillow>=10.0",
+    "lxml>=5.0",
+    "rich>=13.0",
+]
